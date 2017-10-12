@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Picker Vs Chooser</string>
+  <string name="share_dialog_title">Sharing with a chooser</string>
+  <string name="picker_button">Share with picker</string>
+  <string name="chooser_button">Share with chooser</string>
+  <string name="sharing_text">Test sharing</string>
+  <string name="picker_dialog_title">Sharing with a picker</string>
+  <string name="min_sdk_warning">Only available on Android 5.1 and later!</string>
+  <string name="sharing_message">Shared to %s</string>
+</resources>
